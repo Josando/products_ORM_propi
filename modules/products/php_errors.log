@@ -1,0 +1,497 @@
+[28-Sep-2016 14:51:14 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:14 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:51:14 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:14 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:51:14 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:14 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:51:14 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:14 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:51:19 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:19 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:51:19 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:51:19 UTC] PHP Stack trace:
+[28-Sep-2016 14:51:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:12 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:12 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:12 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:12 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:22 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:22 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:22 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:22 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:33 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:33 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:53:33 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:53:33 UTC] PHP Stack trace:
+[28-Sep-2016 14:53:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:01 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:01 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:01 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:01 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:02 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:02 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:02 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:02 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:03 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:03 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:03 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:03 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:05 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:05 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:05 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:05 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:06 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:06 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:54:06 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:54:06 UTC] PHP Stack trace:
+[28-Sep-2016 14:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:26 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:26 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:26 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:26 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:27 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:27 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:27 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:27 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:28 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:28 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:28 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:28 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:28 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:28 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:57:28 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:57:28 UTC] PHP Stack trace:
+[28-Sep-2016 14:57:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:59:26 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:59:26 UTC] PHP Stack trace:
+[28-Sep-2016 14:59:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:59:26 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:59:26 UTC] PHP Stack trace:
+[28-Sep-2016 14:59:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:59:27 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:59:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 14:59:27 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 14:59:27 UTC] PHP Stack trace:
+[28-Sep-2016 14:59:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 15:01:22 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 15:01:22 UTC] PHP Stack trace:
+[28-Sep-2016 15:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 15:01:22 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 15:01:22 UTC] PHP Stack trace:
+[28-Sep-2016 15:01:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 15:06:12 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 15:06:12 UTC] PHP Stack trace:
+[28-Sep-2016 15:06:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 15:06:12 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 15:06:12 UTC] PHP Stack trace:
+[28-Sep-2016 15:06:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 17:56:56 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 17:56:56 UTC] PHP Stack trace:
+[28-Sep-2016 17:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 17:56:56 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 17:56:56 UTC] PHP Stack trace:
+[28-Sep-2016 17:56:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 17:57:52 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 17:57:52 UTC] PHP Stack trace:
+[28-Sep-2016 17:57:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 17:57:52 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 17:57:52 UTC] PHP Stack trace:
+[28-Sep-2016 17:57:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:06:26 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:06:26 UTC] PHP Stack trace:
+[28-Sep-2016 18:06:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:06:26 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:06:26 UTC] PHP Stack trace:
+[28-Sep-2016 18:06:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[28-Sep-2016 18:08:29 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[28-Sep-2016 18:08:29 UTC] PHP Stack trace:
+[28-Sep-2016 18:08:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:08:29 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[28-Sep-2016 18:09:52 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:09:52 UTC] PHP Stack trace:
+[28-Sep-2016 18:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:09:52 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:09:52 UTC] PHP Stack trace:
+[28-Sep-2016 18:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:09:52 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[28-Sep-2016 18:09:52 UTC] PHP Stack trace:
+[28-Sep-2016 18:09:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:09:52 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[28-Sep-2016 18:15:19 UTC] PHP Warning:  include(modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:15:19 UTC] PHP Stack trace:
+[28-Sep-2016 18:15:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:15:19 UTC] PHP Warning:  include(): Failed opening 'modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[28-Sep-2016 18:15:19 UTC] PHP Stack trace:
+[28-Sep-2016 18:15:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:15:19 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[28-Sep-2016 18:15:19 UTC] PHP Stack trace:
+[28-Sep-2016 18:15:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:15:19 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[28-Sep-2016 18:45:44 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 5
+[28-Sep-2016 18:45:44 UTC] PHP Stack trace:
+[28-Sep-2016 18:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:45:44 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:5
+[28-Sep-2016 18:45:48 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 5
+[28-Sep-2016 18:45:48 UTC] PHP Stack trace:
+[28-Sep-2016 18:45:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:45:48 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:5
+[28-Sep-2016 18:45:49 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 5
+[28-Sep-2016 18:45:49 UTC] PHP Stack trace:
+[28-Sep-2016 18:45:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[28-Sep-2016 18:45:49 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:5
+[01-Oct-2016 12:47:21 UTC] PHP Warning:  include(/home/ubuntu/workspace/des.osotemiweb/utils/upload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[01-Oct-2016 12:47:21 UTC] PHP Stack trace:
+[01-Oct-2016 12:47:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:47:21 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/des.osotemiweb/utils/upload.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 3
+[01-Oct-2016 12:47:21 UTC] PHP Stack trace:
+[01-Oct-2016 12:47:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:47:21 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 12:47:21 UTC] PHP Stack trace:
+[01-Oct-2016 12:47:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:47:21 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 12:48:55 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 12:48:55 UTC] PHP Stack trace:
+[01-Oct-2016 12:48:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:48:55 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 12:53:06 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 12:53:06 UTC] PHP Stack trace:
+[01-Oct-2016 12:53:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:53:06 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 12:53:56 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 12:53:56 UTC] PHP Stack trace:
+[01-Oct-2016 12:53:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 12:53:56 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 13:22:29 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 13:22:29 UTC] PHP Stack trace:
+[01-Oct-2016 13:22:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:22:29 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 13:23:53 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 11
+[01-Oct-2016 13:23:53 UTC] PHP Stack trace:
+[01-Oct-2016 13:23:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:23:53 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:11
+[01-Oct-2016 13:33:21 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 13:33:21 UTC] PHP Stack trace:
+[01-Oct-2016 13:33:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:33:21 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 13:33:25 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 13:33:25 UTC] PHP Stack trace:
+[01-Oct-2016 13:33:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:33:25 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 13:33:42 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 13:33:42 UTC] PHP Stack trace:
+[01-Oct-2016 13:33:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:33:42 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 13:34:02 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 13:34:02 UTC] PHP Stack trace:
+[01-Oct-2016 13:34:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:34:02 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 13:34:54 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 13:34:54 UTC] PHP Stack trace:
+[01-Oct-2016 13:34:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 13:34:54 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 13:38:39 UTC] PHP Fatal error:  Call to undefined function validate_products() in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 32
+[01-Oct-2016 13:38:39 UTC] PHP Stack trace:
+[01-Oct-2016 13:38:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:11:33 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 12
+[01-Oct-2016 14:11:33 UTC] PHP Stack trace:
+[01-Oct-2016 14:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:11:33 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:12
+[01-Oct-2016 14:12:22 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 12
+[01-Oct-2016 14:12:22 UTC] PHP Stack trace:
+[01-Oct-2016 14:12:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:12:22 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:12
+[01-Oct-2016 14:15:36 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 14:15:36 UTC] PHP Stack trace:
+[01-Oct-2016 14:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:15:36 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 14:15:36 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 14
+[01-Oct-2016 14:15:36 UTC] PHP Stack trace:
+[01-Oct-2016 14:15:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:15:36 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:14
+[01-Oct-2016 14:15:48 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 14:15:48 UTC] PHP Stack trace:
+[01-Oct-2016 14:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:15:48 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 14:16:26 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 8
+[01-Oct-2016 14:16:26 UTC] PHP Stack trace:
+[01-Oct-2016 14:16:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:16:26 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:8
+[01-Oct-2016 14:25:37 UTC] PHP Warning:  log() expects parameter 1 to be double, string given in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 34
+[01-Oct-2016 14:25:37 UTC] PHP Stack trace:
+[01-Oct-2016 14:25:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:25:37 UTC] PHP   2. log() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:34
+[01-Oct-2016 14:42:11 UTC] PHP Warning:  move_uploaded_file(media/1236105966-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:42:11 UTC] PHP Stack trace:
+[01-Oct-2016 14:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:42:11 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:32
+[01-Oct-2016 14:42:11 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 14:42:11 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGApbol' to 'media/1236105966-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:42:11 UTC] PHP Stack trace:
+[01-Oct-2016 14:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:42:11 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:32
+[01-Oct-2016 14:42:11 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 14:42:11 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php on line 34
+[01-Oct-2016 14:42:11 UTC] PHP Stack trace:
+[01-Oct-2016 14:42:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:43:58 UTC] PHP Warning:  move_uploaded_file(media/1247066722-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:43:58 UTC] PHP Stack trace:
+[01-Oct-2016 14:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:43:58 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:31
+[01-Oct-2016 14:43:58 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 14:43:58 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpJnt98E' to 'media/1247066722-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:43:58 UTC] PHP Stack trace:
+[01-Oct-2016 14:43:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:43:58 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:31
+[01-Oct-2016 14:43:58 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 14:56:18 UTC] PHP Warning:  move_uploaded_file(media/1656427379-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:56:18 UTC] PHP Stack trace:
+[01-Oct-2016 14:56:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:56:18 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:40
+[01-Oct-2016 14:56:18 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 14:56:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTzxdrI' to 'media/1656427379-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 14:56:18 UTC] PHP Stack trace:
+[01-Oct-2016 14:56:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 14:56:18 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:40
+[01-Oct-2016 14:56:18 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 15:11:33 UTC] PHP Warning:  move_uploaded_file(media/1227878492-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 15:11:33 UTC] PHP Stack trace:
+[01-Oct-2016 15:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 15:11:33 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 15:11:33 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 15:11:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFSntVB' to 'media/1227878492-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 15:11:33 UTC] PHP Stack trace:
+[01-Oct-2016 15:11:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 15:11:33 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 15:11:33 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 15:57:19 UTC] PHP Warning:  move_uploaded_file(media/1428253726-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 15:57:19 UTC] PHP Stack trace:
+[01-Oct-2016 15:57:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 15:57:19 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 15:57:19 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 15:57:19 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuH53w3' to 'media/1428253726-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 15:57:19 UTC] PHP Stack trace:
+[01-Oct-2016 15:57:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 15:57:19 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 15:57:19 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 16:02:20 UTC] PHP Warning:  move_uploaded_file(media/1707368573-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 16:02:20 UTC] PHP Stack trace:
+[01-Oct-2016 16:02:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 16:02:20 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 16:02:20 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 16:02:20 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwcOPVi' to 'media/1707368573-1025640568-flowers.png' in /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php on line 90
+[01-Oct-2016 16:02:20 UTC] PHP Stack trace:
+[01-Oct-2016 16:02:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 16:02:20 UTC] PHP   2. upload_files() /home/ubuntu/workspace/Plantillas parte 3/modules/products/controller/controller_products.class.php:42
+[01-Oct-2016 16:02:20 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/Plantillas parte 3/utils/upload.php:90
+[01-Oct-2016 17:22:09 UTC] PHP Warning:  include(/home/ubuntu/workspace/Plantillas parte 3/modules/products/utils/functions_products.inc.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 5
+[01-Oct-2016 17:22:09 UTC] PHP Stack trace:
+[01-Oct-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 17:22:09 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Plantillas parte 3/modules/products/utils/functions_products.inc.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 5
+[01-Oct-2016 17:22:09 UTC] PHP Stack trace:
+[01-Oct-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 17:22:09 UTC] PHP Warning:  include(/home/ubuntu/workspace/Plantillas parte 3/utils/upload.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 6
+[01-Oct-2016 17:22:09 UTC] PHP Stack trace:
+[01-Oct-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 17:22:09 UTC] PHP Warning:  include(): Failed opening '/home/ubuntu/workspace/Plantillas parte 3/utils/upload.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 6
+[01-Oct-2016 17:22:09 UTC] PHP Stack trace:
+[01-Oct-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[01-Oct-2016 17:22:09 UTC] PHP Fatal error:  Call to undefined function upload_files() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 42
+[01-Oct-2016 17:22:09 UTC] PHP Stack trace:
+[01-Oct-2016 17:22:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:09:18 UTC] PHP Fatal error:  Call to undefined function validate_user() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 21
+[02-Oct-2016 11:09:18 UTC] PHP Stack trace:
+[02-Oct-2016 11:09:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:09:18 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 11:13:30 UTC] PHP Fatal error:  Call to undefined function validate_user() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 21
+[02-Oct-2016 11:13:30 UTC] PHP Stack trace:
+[02-Oct-2016 11:13:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:13:30 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 11:45:49 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Plantillas parte 3/media/159529102-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 90
+[02-Oct-2016 11:45:49 UTC] PHP Stack trace:
+[02-Oct-2016 11:45:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:45:49 UTC] PHP   2. upload_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:94
+[02-Oct-2016 11:45:49 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/products_v3/utils/upload.php:90
+[02-Oct-2016 11:45:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmlDte0' to '/home/ubuntu/workspace/Plantillas parte 3/media/159529102-1025640568-flowers.png' in /home/ubuntu/workspace/products_v3/utils/upload.php on line 90
+[02-Oct-2016 11:45:49 UTC] PHP Stack trace:
+[02-Oct-2016 11:45:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:45:49 UTC] PHP   2. upload_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:94
+[02-Oct-2016 11:45:49 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/products_v3/utils/upload.php:90
+[02-Oct-2016 11:46:35 UTC] PHP Warning:  move_uploaded_file(/home/ubuntu/workspace/Plantillas parte 3/media/1587829027-1025640568-flowers.png): failed to open stream: No such file or directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 90
+[02-Oct-2016 11:46:35 UTC] PHP Stack trace:
+[02-Oct-2016 11:46:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:46:35 UTC] PHP   2. upload_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:94
+[02-Oct-2016 11:46:35 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/products_v3/utils/upload.php:90
+[02-Oct-2016 11:46:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIeFfB0' to '/home/ubuntu/workspace/Plantillas parte 3/media/1587829027-1025640568-flowers.png' in /home/ubuntu/workspace/products_v3/utils/upload.php on line 90
+[02-Oct-2016 11:46:35 UTC] PHP Stack trace:
+[02-Oct-2016 11:46:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 11:46:35 UTC] PHP   2. upload_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:94
+[02-Oct-2016 11:46:35 UTC] PHP   3. move_uploaded_file() /home/ubuntu/workspace/products_v3/utils/upload.php:90
+[02-Oct-2016 12:22:58 UTC] PHP Warning:  filter_input_array() expects parameter 1 to be long, array given in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 46
+[02-Oct-2016 12:22:58 UTC] PHP Stack trace:
+[02-Oct-2016 12:22:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:22:58 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 12:22:58 UTC] PHP   3. validate_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:21
+[02-Oct-2016 12:22:58 UTC] PHP   4. filter_input_array() /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php:46
+[02-Oct-2016 12:24:24 UTC] PHP Warning:  filter_input_array() expects parameter 1 to be long, array given in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 46
+[02-Oct-2016 12:24:24 UTC] PHP Stack trace:
+[02-Oct-2016 12:24:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:24:24 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 12:24:24 UTC] PHP   3. validate_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:21
+[02-Oct-2016 12:24:24 UTC] PHP   4. filter_input_array() /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php:46
+[02-Oct-2016 12:28:33 UTC] PHP Warning:  filter_input_array() expects parameter 1 to be long, array given in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 46
+[02-Oct-2016 12:28:33 UTC] PHP Stack trace:
+[02-Oct-2016 12:28:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:28:33 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 12:28:33 UTC] PHP   3. validate_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:21
+[02-Oct-2016 12:28:33 UTC] PHP   4. filter_input_array() /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php:46
+[02-Oct-2016 12:37:09 UTC] PHP Warning:  filter_input_array() expects parameter 1 to be long, array given in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 46
+[02-Oct-2016 12:37:09 UTC] PHP Stack trace:
+[02-Oct-2016 12:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:37:09 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 12:37:09 UTC] PHP   3. validate_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:27
+[02-Oct-2016 12:37:09 UTC] PHP   4. filter_input_array() /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php:46
+[02-Oct-2016 12:44:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 10
+[02-Oct-2016 12:44:09 UTC] PHP Stack trace:
+[02-Oct-2016 12:44:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:44:58 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 10
+[02-Oct-2016 12:44:58 UTC] PHP Stack trace:
+[02-Oct-2016 12:44:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:45:19 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 10
+[02-Oct-2016 12:45:19 UTC] PHP Stack trace:
+[02-Oct-2016 12:45:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:46:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 10
+[02-Oct-2016 12:46:49 UTC] PHP Stack trace:
+[02-Oct-2016 12:46:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 12:47:27 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 10
+[02-Oct-2016 12:47:27 UTC] PHP Stack trace:
+[02-Oct-2016 12:47:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:03:59 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:03:59 UTC] PHP Stack trace:
+[02-Oct-2016 13:03:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:03:59 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:05:13 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:05:13 UTC] PHP Stack trace:
+[02-Oct-2016 13:05:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:05:13 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:06:07 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:06:07 UTC] PHP Stack trace:
+[02-Oct-2016 13:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:06:07 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:06:22 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:06:22 UTC] PHP Stack trace:
+[02-Oct-2016 13:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:06:22 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:07:09 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:07:09 UTC] PHP Stack trace:
+[02-Oct-2016 13:07:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:07:09 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:07:45 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:07:45 UTC] PHP Stack trace:
+[02-Oct-2016 13:07:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:07:45 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:15:40 UTC] PHP Warning:  Illegal string offset 'name' in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 39
+[02-Oct-2016 13:15:40 UTC] PHP Stack trace:
+[02-Oct-2016 13:15:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 13:15:40 UTC] PHP   2. discharge_products() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:14
+[02-Oct-2016 13:33:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/products_v3/modules/products/utils/functions_products.inc.php on line 223
+[02-Oct-2016 13:33:39 UTC] PHP Stack trace:
+[02-Oct-2016 13:33:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 19:26:10 UTC] PHP Warning:  unlink(/home/ubuntu/workspaceproducts_v3/media/): No such file or directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 19:26:10 UTC] PHP Stack trace:
+[02-Oct-2016 19:26:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 19:26:10 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 19:26:10 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 19:28:40 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 19:28:40 UTC] PHP Stack trace:
+[02-Oct-2016 19:28:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 19:28:40 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 19:28:40 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 20:55:10 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 20:55:10 UTC] PHP Stack trace:
+[02-Oct-2016 20:55:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 20:55:10 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 20:55:10 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 20:56:09 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 20:56:09 UTC] PHP Stack trace:
+[02-Oct-2016 20:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 20:56:09 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 20:56:09 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 20:57:39 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 20:57:39 UTC] PHP Stack trace:
+[02-Oct-2016 20:57:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 20:57:39 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 20:57:39 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 20:58:14 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 20:58:14 UTC] PHP Stack trace:
+[02-Oct-2016 20:58:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 20:58:14 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 20:58:14 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 21:02:04 UTC] PHP Warning:  unlink(/home/ubuntu/workspace/products_v3/media/): Is a directory in /home/ubuntu/workspace/products_v3/utils/upload.php on line 111
+[02-Oct-2016 21:02:04 UTC] PHP Stack trace:
+[02-Oct-2016 21:02:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 21:02:04 UTC] PHP   2. remove_files() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:98
+[02-Oct-2016 21:02:04 UTC] PHP   3. unlink() /home/ubuntu/workspace/products_v3/utils/upload.php:111
+[02-Oct-2016 22:09:54 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 118
+[02-Oct-2016 22:09:54 UTC] PHP Stack trace:
+[02-Oct-2016 22:09:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 22:11:34 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 118
+[02-Oct-2016 22:11:34 UTC] PHP Stack trace:
+[02-Oct-2016 22:11:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 22:11:52 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 118
+[02-Oct-2016 22:11:52 UTC] PHP Stack trace:
+[02-Oct-2016 22:11:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 22:12:44 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 118
+[02-Oct-2016 22:12:44 UTC] PHP Stack trace:
+[02-Oct-2016 22:12:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
+[02-Oct-2016 22:12:55 UTC] PHP Fatal error:  Call to undefined function debug() in /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php on line 118
+[02-Oct-2016 22:12:55 UTC] PHP Stack trace:
+[02-Oct-2016 22:12:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/products_v3/modules/products/controller/controller_products.class.php:0
