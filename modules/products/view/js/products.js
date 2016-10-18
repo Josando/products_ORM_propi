@@ -548,7 +548,7 @@ function validate_products(){
             //console.log(response.redirect3.product_name);
 
         }, "json").fail(function (xhr) {
-            console.log(xhr.responseJSON.error.brand);//devuelve si hay error en el nombre
+          //  console.log(xhr.responseJSON.error.brand);//devuelve si hay error en el nombre
 
             if (xhr.responseJSON.error.name)
               $("#name").focus().after("<span  class='error1'>" + xhr.responseJSON.error.name + "</span>");

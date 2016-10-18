@@ -1,15 +1,13 @@
 <?php
 
-
 //include  with absolute route
-include ($_SERVER['DOCUMENT_ROOT'] . "/products_v3/modules/products/utils/functions_products.inc.php");
-include ($_SERVER['DOCUMENT_ROOT'] . "/products_v3/utils/upload.php");
-
+include ($_SERVER['DOCUMENT_ROOT'] . "/products_ORM_propi/modules/products/utils/functions_products.inc.php");
+include ($_SERVER['DOCUMENT_ROOT'] . "/products_ORM_propi/utils/upload.php");
+include ($_SERVER['DOCUMENT_ROOT'] . "/products_ORM_propi/utils/common.inc.php");
 
 session_start();
 
 	if ((isset($_POST['discharge_products_json']))) {
-
 
 	  	discharge_products();
 	}
@@ -54,7 +52,20 @@ session_start();
 
         );
 
-        $mensaje = "User has been successfully registered";
+				/////////////////insert into BD////////////////////////
+        $arrValue = false;
+        $path_model = $_SERVER['DOCUMENT_ROOT'] . '/products_ORM_propi/modules/products/model/model/';
+        $arrValue = loadModel($path_model, "products_model", "create_products", $arrArgument);
+        //echo json_encode($arrValue);
+      //  exit();
+
+        if ($arrValue)
+            $mensaje = "User has been successfully registered";
+        else
+            $mensaje = "No se ha podido realizar su alta. Intentelo mas tarde";
+
+
+
 
         //redirigir a otra p�gina con los datos de $arrArgument y $mensaje
         $_SESSION['products'] = $arrArgument;

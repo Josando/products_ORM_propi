@@ -3,6 +3,7 @@
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/dropzone.css">
 <script type="text/javascript" src="modules/products/view/js/products.js" ></script>
 
+
 <!--Main -->
 
 <div id="main">

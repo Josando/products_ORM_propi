@@ -72,7 +72,7 @@ function upload_files() {
 
     ////////////////////////////////////////////////////////////////////////////
 
-   $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_v3/media/'.$_FILES['file']['name'];
+   $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_ORM_propi/media/'.$_FILES['file']['name'];
     if (is_uploaded_file($_FILES['file']['tmp_name'])){
         if (is_file($_FILES['file']['tmp_name'])) {
             $idUnico = rand();
@@ -81,7 +81,7 @@ function upload_files() {
             $_SESSION["nombreFichero"] = $nombreFichero;
             $copiarFichero = true;
             // I use absolute route to move_uploaded_file because this happens when i run ajax
-           $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_v3/media/'.$nombreFichero;
+           $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_ORM_propi/media/'.$nombreFichero;
         }else{
                 $error .=   "Invalid File...";
         }
@@ -99,7 +99,7 @@ function upload_files() {
             return $return=array('resultado'=>true , 'error'=>$error,'datos'=>$upfile);
         }
         if($_FILES['file']['error'] !== 0) { //Assignarem a l'us default-avatar
-            $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_v3/media/'.$_FILES['avatar']['name'];
+            $upfile = $_SERVER['DOCUMENT_ROOT'].'/products_ORM_propi/media/'.$_FILES['avatar']['name'];
             return $return=array('resultado'=>true,'error'=>$error,'datos'=>$upfile);
         }
     }else{
@@ -109,8 +109,8 @@ function upload_files() {
 
 function remove_files(){
 	$name =$_POST["filename"];
-	if(file_exists($_SERVER['DOCUMENT_ROOT'].'/products_v3/media/'.$_SESSION["nombreFichero"])){
-	unlink($_SERVER['DOCUMENT_ROOT'].'/products_v3/media/'.$_SESSION["nombreFichero"]);
+	if(file_exists($_SERVER['DOCUMENT_ROOT'].'/products_ORM_propi/media/'.$_SESSION["nombreFichero"])){
+	unlink($_SERVER['DOCUMENT_ROOT'].'/products_ORM_propi/media/'.$_SESSION["nombreFichero"]);
 		return true;
 	}else{
 		return false;
